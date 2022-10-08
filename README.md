@@ -19,9 +19,9 @@ Product assembly/disassembly using industrial sensors and electric/pneumatic act
 
 ## Videos
 
->  [**Real-life video**](https://drive.google.com/file/d/1jfU_p_BXG_VICBDakj95YDrvPrKzNGm8/view?usp=sharing) 
+ [**Real-life video**](https://drive.google.com/file/d/1jfU_p_BXG_VICBDakj95YDrvPrKzNGm8/view?usp=sharing) 
 <br />
->  [**Simulation video**](https://drive.google.com/file/d/1K9VrLLukAz_3-717wg5xwQg3bS_EOqyh/view?usp=sharing) 
+  [**Simulation video**](https://drive.google.com/file/d/1K9VrLLukAz_3-717wg5xwQg3bS_EOqyh/view?usp=sharing) 
 
 
 ## Directories:
